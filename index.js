@@ -6,7 +6,7 @@ if (name === "AZ") {
 } else {
   console.log("Expected the name to be AZ");
   var name = "AZ";
-  console.log(name)
+  console.log(name);
 }
 
 // Don't worry about this
